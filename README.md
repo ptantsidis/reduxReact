@@ -60,3 +60,4 @@ ____
 
   ### Images  
  /client/public/images/redux_image.png
+![redux_image](https://user-images.githubusercontent.com/90045665/147580722-c3f11fd7-d3a0-49d0-81f8-b4d8a2918f31.png)
