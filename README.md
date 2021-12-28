@@ -59,4 +59,4 @@ ____
   https://stormy-lake-18207.herokuapp.com/
 
   ### Images  
- /images/redux_image.png
+ /client/public/images/redux_image.png
